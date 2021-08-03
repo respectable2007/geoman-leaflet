@@ -16,15 +16,15 @@
     "removeLastVertex": "移除最后的顶点"
   },
   "buttonTitles": {
-    "drawMarkerButton": "绘制标记",
+    "drawMarkerButton": "点击左键标记位置",
     "drawPolyButton": "绘制多边形",
     "drawLineButton": "绘制线段",
     "drawCircleButton": "绘制圆形",
     "drawRectButton": "绘制长方形",
-    "editButton": "编辑图层",
+    "editButton": "编辑",
     "dragButton": "拖拽图层",
     "cutButton": "剪切图层",
-    "deleteButton": "删除图层",
+    "deleteButton": "删除",
     "drawCircleMarkerButton": "画圆圈标记",
     "snappingButton": "将拖动的标记捕捉到其他图层和顶点",
     "pinningButton": "将共享顶点固定在一起"
